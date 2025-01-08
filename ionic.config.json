@@ -1,0 +1,7 @@
+{
+  "name": "PostresApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
